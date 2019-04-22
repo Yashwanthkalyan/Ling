@@ -1,2 +1,6 @@
 This application is for Ling RS
-To get the status of local train timings
+To get the status of local train timings.
+
+It contains;
+How many trains are running between ling to sec and what are there timings.
+What is the fare?
