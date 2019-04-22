@@ -1,1 +1,2 @@
 This application is for Ling RS
+To get the status of local train timings
